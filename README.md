@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-### Hi there 👋
 ## I am Karthik
 
 ❤️ Circuit Designer and Programmer by passion
