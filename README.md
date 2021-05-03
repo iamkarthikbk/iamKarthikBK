@@ -7,7 +7,7 @@
 
 👍 Feel free to go through my repositories
 
-🌐 Website: [bkkarthik.me](https://bkkarthik.me)
+🌐 Website: [bkkarthik.me](https://bkkarthik.me), [about me](https://about.me/bkkarthik)
 
 ---
 ### 🌱 Github Stats
