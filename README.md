@@ -8,6 +8,7 @@
 👍 Feel free to go through my repositories
 
 🌐 Website: [about me](https://about.me/bkkarthik)
+Linux Kernel work: https://lore.kernel.org/lkml/?q=bkkarthik%40pesu.pes.edu
 
 ---
 ### 🌱 Github Stats
