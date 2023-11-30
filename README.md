@@ -1,15 +1,16 @@
 ### Hi there! <!--👋-->
 
-I am currently with InCore Semiconductors as an RTL Design Engineer. Prior to this, I was with the Centre for Heterogeneous and Intelligent Computing working on Energy Efficient Computing Techniques. Prior to that, I was a mentee at the Linux Foundation.
+My name is Karthik, and I'm an Engineer and Photographer, both by passion and profession. I am currently with [InCore](https://www.incoresemi.com) as a CPU Micro-Architect.
+Prior to this, I was with the Centre for Heterogeneous and Intelligent Processing Systems working on Energy Efficient Computing Techniques.
+Prior to that, I was a mentee at the Linux Foundation working on device drivers for the Linux kernel.
 
-I have about a year of research experience and close to another 1.5 years of industry experience. My research interests lie in microarchitecture for high-performance and secure computing.
+I have about 2 years of experience in CPU micro-architecture in the Indian semiconductor industry.
+I also have an additional year of research experience in energy efficient computing techniques.
+My research interests lie in CPU micro-architecture for high-performance computing. I plan to pursue a PhD some day.
 
-I am also a photographer. You can check out my work on [Unsplash](https://unsplash.com/@thatbangaloreanguy) :)
+I like to write about things that interest me at work, you can read some of those articles on [Medium](https://medium.com/@talktokarthikbk).
+I love travelling and adventure. I am a certified open-water diver. I am also a photographer.
+You can check out some of the best pictures I've clicked on Unsplash :) ( https://unsplash.com/@thatbangaloreanguy ) ❤
 
-:fox_face: [GitLab](https://gitlab.com/iamKarthikBK) or [Self Hosted GitLab](https://gitlab.incoresemi.com/karthik)- most of my work is there
-
-:notebook: Reading Group - [India Systems' Research Discussions](https://systemsresearch.carrd.co/)
-
-:penguin: Linux Kernel Work: [Pulic Mailing Lists (Filtered)](https://lore.kernel.org/lkml/?q=bkkarthik%40pesu.pes.edu)
-
-🌐 Website: [Contact Information](https://about.me/bkkarthik)
+I am part of a reading group (currently inactive) - [India Systems' Research Discussions](https://systemsresearch.carrd.co/).
+You can learn more baout me by visiting my [website](https://about.me/bkkarthik).
