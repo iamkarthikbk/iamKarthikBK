@@ -8,6 +8,8 @@ I have about 2 years of experience in CPU micro-architecture in the Indian semic
 I also have an additional year of research experience in energy efficient computing techniques.
 My research interests lie in CPU micro-architecture for high-performance computing. I plan to pursue a PhD some day.
 
+I have a bachelor's degree from PES University in Bengaluru, India.
+
 I like to write about things that interest me at work, you can read some of those articles on [Medium](https://medium.com/@talktokarthikbk).
 I love travelling and adventure. I am a certified open-water diver. I am also a photographer.
 You can check out some of the best pictures I've clicked on Unsplash :) ( https://unsplash.com/@thatbangaloreanguy ) ❤
