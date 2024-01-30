@@ -16,3 +16,5 @@ You can check out some of the best pictures I've clicked on Unsplash :) ( https:
 
 I am part of a reading group (currently inactive) - [India Systems' Research Discussions](https://systemsresearch.carrd.co/).
 You can learn more baout me by visiting my [website](https://about.me/bkkarthik).
+
+Here's my [goodreads](https://www.goodreads.com/iamkarthikbk).
